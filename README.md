@@ -39,7 +39,7 @@ We achieved exceptional predictive accuracy across all models. The **Linear Regr
 The heatmap below visualizes the correlation matrix used to identify redundant features (e.g., Temperature Ranges).
 
 <p align="center">
-  <img src="Wild Blueberry Yield Prediction/assets/decision_tree.jpg" width="800" alt="Correlation Heatmap">
+  <img src="Wild Blueberry Yield Prediction/assets/heatmap.jpg" width="800" alt="Correlation Heatmap">
 </p>
 
 ### 2. Model Prediction Analysis (Actual vs Predicted)
