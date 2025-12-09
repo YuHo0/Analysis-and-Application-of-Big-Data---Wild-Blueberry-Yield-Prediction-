@@ -39,7 +39,7 @@ We achieved exceptional predictive accuracy across all models. The **Linear Regr
 The heatmap below visualizes the correlation matrix used to identify redundant features (e.g., Temperature Ranges).
 
 <p align="center">
-  <img src="assets/heatmap.jpg" width="800" alt="Correlation Heatmap">
+  <img src="Wild Blueberry Yield Prediction/assets/decision_tree.jpg" width="800" alt="Correlation Heatmap">
 </p>
 
 ### 2. Model Prediction Analysis (Actual vs Predicted)
@@ -47,11 +47,11 @@ The following scatter plots demonstrate the alignment between **Actual Yield (X-
 
 | Linear Regression (R² ≈ 0.99) | Random Forest (R² ≈ 0.99) |
 | :---: | :---: |
-| <img src="assets/linear_regression.jpg" width="400"> | <img src="assets/random_forest.jpg" width="400"> |
+| <img src="Wild Blueberry Yield Prediction/assets/linear_regression.jpg" width="400"> | <img src="Wild Blueberry Yield Prediction/assets/random_forest.jpg" width="400"> |
 
 #### Decision Tree Regressor (R² ≈ 0.98)
 <p align="center">
-  <img src="assets/decision_tree.jpg" width="500" alt="Decision Tree Plot">
+  <img src="Wild Blueberry Yield Prediction/assets/decision_tree.jpg" width="500" alt="Decision Tree Plot">
 </p>
 
 ---
